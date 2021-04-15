@@ -31,7 +31,7 @@ Then, each player choose the *Player* mode and attribute themselves a number tha
 You can also use another device with the *Table* mode selected, which you can put in the center of the table, just like with real cards.
 
 To see your hand, swipe up from the card at the bottom of the screen. Be sure not to show it to your opponents!
-Players bet according to the game's rules, and when it's done, they press *Deal*.
+Players play according to the game's rules, and when it's done, they press *Deal*.
 
 Example :
 > Peter, Mary and John all use their phone and choose the Game ID 'poker-game'.

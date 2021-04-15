@@ -177,7 +177,7 @@ class BottomBar extends StatelessWidget {
               width: 120,
               child: Column(
                 children: const [
-                  Text('Version 1.0.0'),
+                  Text('Version 1.0.1'),
                   Text('By tidann dev'),
                 ],
               ),

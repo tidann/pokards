@@ -2,7 +2,7 @@ name: pokards
 description: A mobile/web/desktop app built with Flutter to play the role of the dealer in a Poker Texas hold'em game.
 publish_to: 'none'
 
-version: 1.0.0+1
+version: 1.0.1+2
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
